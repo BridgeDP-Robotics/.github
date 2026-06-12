@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td align="center" width="100%">
-      <a href="https://bridgedp.com">
+      <a href="https://github.com/BridgeDP-Robotics/robocraft-sdk">
         <img src="../images/robocraft.svg" width="70%" alt="RoboCraft">
       </a>
       <br>
@@ -27,7 +27,7 @@
       机器人动作能力开发平台，支持跨机型动作开发、训练与部署。<br>
       A motion capability development platform for cross-platform robot motion development, training, and deployment.
       <br><br>
-      <a href="https://bridgedp.com">了解更多 Learn more →</a>
+      <a href="https://github.com/BridgeDP-Robotics/robocraft-sdk">了解更多 Learn more →</a>
     </td>
   </tr>
 </table>
