@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="../images/logo.svg" height="80" alt="BridgeDP Robotics">
+  <img src="../images/logo-white.png#gh-dark-mode-only" height="72" alt="BridgeDP Robotics">
+  <img src="../images/logo.png#gh-light-mode-only" height="72" alt="BridgeDP Robotics">
 </div>
 <br>
 
@@ -9,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://example.com"><img src="https://img.shields.io/badge/官网%20Website-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://bridgedp.com"><img src="https://img.shields.io/badge/官网%20Website-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="https://docs.example.com"><img src="https://img.shields.io/badge/文档%20Docs-008000?style=flat&logo=readthedocs&logoColor=white" alt="Docs"></a>
 </p>
 
-<!-- 上方两个链接均为占位【待确认】，请替换为真实官网 / 文档地址 -->
+<!-- 官网已设为 bridgedp.com；文档链接仍为占位【待确认】，请替换为真实文档地址 -->
 
 ## 产品矩阵 · Product Ecosystem
 
