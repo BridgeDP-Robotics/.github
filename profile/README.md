@@ -20,7 +20,7 @@
   <tr>
     <td align="center" width="100%">
       <a href="https://github.com/BridgeDP-Robotics/robocraft-sdk">
-        <img src="../images/robocraft.svg" width="70%" alt="RoboCraft">
+        <img src="../images/robocraft.png" width="160" alt="RoboCraft">
       </a>
       <br>
       <h3>RoboCraft</h3>
