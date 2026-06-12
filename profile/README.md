@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="../images/logo-white.png#gh-dark-mode-only" height="72" alt="BridgeDP Robotics">
-  <img src="../images/logo.png#gh-light-mode-only" height="72" alt="BridgeDP Robotics">
+  <img src="../images/logo-white.png#gh-dark-mode-only" height="96" alt="BridgeDP Robotics">
+  <img src="../images/logo.png#gh-light-mode-only" height="96" alt="BridgeDP Robotics">
 </div>
 <br>
 
@@ -20,7 +20,7 @@
   <tr>
     <td align="center" width="100%">
       <a href="https://github.com/BridgeDP-Robotics/robocraft-sdk">
-        <img src="../images/robocraft.png" width="160" alt="RoboCraft">
+        <img src="../images/robocraft.png" width="88" alt="RoboCraft">
       </a>
       <br>
       <h3>RoboCraft</h3>
