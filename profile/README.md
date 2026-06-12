@@ -32,14 +32,8 @@
   </tr>
 </table>
 
-<!--
-  说明：
-  1. 目前只放了 RoboCraft 一个产品。以后要增加产品时，复制上面的 <td>...</td> 卡片，
-     把 <tr> 里改成多列（如两列各 width="50%"），即可做成 Wuji 那样的多卡片看板。
-  2. RoboCraft 的描述与链接为占位【待确认】，请按统一口径替换。
--->
 
 ## 资源 · Resources
 
-- **技术支持 / Technical support** — RoboCraft@bridgedp.com 或在对应仓库提 Issue
+- **技术支持 / Technical support** — RoboCraft@bridgedp.com 
 - **商务合作 / Sales & partnerships** — zhiquan.liu@bridgedp.com
