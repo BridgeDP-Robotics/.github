@@ -11,17 +11,15 @@
 
 <p align="center">
   <a href="https://bridgedp.com"><img src="https://img.shields.io/badge/官网%20Website-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Website"></a>
-  <a href="https://docs.example.com"><img src="https://img.shields.io/badge/文档%20Docs-008000?style=flat&logo=readthedocs&logoColor=white" alt="Docs"></a>
+  <a href="https://space.bilibili.com/3546614830467491"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=white" alt="Bilibili"></a>
 </p>
-
-<!-- 官网已设为 bridgedp.com；文档链接仍为占位【待确认】，请替换为真实文档地址 -->
 
 ## 产品矩阵 · Product Ecosystem
 
 <table>
   <tr>
     <td align="center" width="100%">
-      <a href="https://docs.example.com">
+      <a href="https://bridgedp.com">
         <img src="../images/robocraft.svg" width="70%" alt="RoboCraft">
       </a>
       <br>
@@ -29,7 +27,7 @@
       机器人动作能力开发平台，支持跨机型动作开发、训练与部署。<br>
       A motion capability development platform for cross-platform robot motion development, training, and deployment.
       <br><br>
-      <a href="https://docs.example.com">文档 Docs →</a>
+      <a href="https://bridgedp.com">了解更多 Learn more →</a>
     </td>
   </tr>
 </table>
@@ -43,7 +41,5 @@
 
 ## 资源 · Resources
 
-- **技术支持 / Technical support** — support@example.com 或在对应仓库提 Issue 【待确认】
-- **商务合作 / Sales & partnerships** — sales@example.com 【待确认】
-
-<!-- 邮箱为占位【待确认】，请替换为真实联系方式 -->
+- **技术支持 / Technical support** — RoboCraft@bridgedp.com 或在对应仓库提 Issue
+- **商务合作 / Sales & partnerships** — zhiquan.liu@bridgedp.com
